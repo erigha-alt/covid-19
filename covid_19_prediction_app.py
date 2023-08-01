@@ -54,7 +54,7 @@ def add_bg_from_local(image_file):
         unsafe_allow_html = True
     )
     
-background = add_bg_from_local("/Users/user/Downloads/magicpattern-grid-pattern-1690805793107.png")
+background = add_bg_from_local("magicpattern-grid-pattern-1690805793107.png")
 
 
 # STEP 1: Store pages inside session_state
